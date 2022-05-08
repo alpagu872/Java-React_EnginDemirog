@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-React_EnginDemirog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/A_First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/B_Iki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/C_TemelVeriTipleriUc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/D_IfBloklari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/E_SayiKiyaslama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/F_SwitchBloklari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/G_ForDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/H_WhileDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/I_DoWhileDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/J_Diziler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/J_Diziler2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/K_CokBoyutluDiziler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/ArkadasSayilar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/AsalSayiMi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/KalinVeInceHarfler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/L_Stringler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/MukemmelSayilar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IlkDersOdevler/SayiBulma/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.K_CokBoyutluDiziler">
-    <configuration name="H_WhileDongusu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.H_WhileDongusu" />
+}</component>
+  <component name="RunManager" selected="Application.IlkDersOdevler.SayiBulma.Main">
+    <configuration name="IlkDersOdevler.ArkadasSayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.ArkadasSayilar.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.*" />
+          <option name="PATTERN" value="IlkDersOdevler.ArkadasSayilar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I_DoWhileDongusu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.I_DoWhileDongusu" />
+    <configuration name="IlkDersOdevler.AsalSayiMi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.AsalSayiMi.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.*" />
+          <option name="PATTERN" value="IlkDersOdevler.AsalSayiMi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J_Diziler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.J_Diziler" />
+    <configuration name="IlkDersOdevler.MukemmelSayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.MukemmelSayilar.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.*" />
+          <option name="PATTERN" value="IlkDersOdevler.MukemmelSayilar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J_Diziler2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.J_Diziler2" />
+    <configuration name="IlkDersOdevler.SayiBulma.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.SayiBulma.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.*" />
+          <option name="PATTERN" value="IlkDersOdevler.SayiBulma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K_CokBoyutluDiziler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.K_CokBoyutluDiziler" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.KalinVeInceHarfler.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.*" />
+          <option name="PATTERN" value="IlkDersOdevler.KalinVeInceHarfler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.K_CokBoyutluDiziler" />
-        <item itemvalue="Application.J_Diziler2" />
-        <item itemvalue="Application.J_Diziler" />
-        <item itemvalue="Application.I_DoWhileDongusu" />
-        <item itemvalue="Application.H_WhileDongusu" />
+        <item itemvalue="Application.IlkDersOdevler.SayiBulma.Main" />
+        <item itemvalue="Application.IlkDersOdevler.ArkadasSayilar.Main" />
+        <item itemvalue="Application.IlkDersOdevler.MukemmelSayilar.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IlkDersOdevler.AsalSayiMi.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +127,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651950911447</updated>
-      <workItem from="1651950912843" duration="9085000" />
+      <workItem from="1651950912843" duration="9317000" />
+      <workItem from="1651984438801" duration="4033000" />
     </task>
     <servers />
   </component>
