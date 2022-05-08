@@ -1,3 +1,3 @@
 # Java-React_EnginDemirog
 
-17.Videoda kaldım.
+### + İlk haftanın ödev ve alıştırmaları  tamamlandı.
