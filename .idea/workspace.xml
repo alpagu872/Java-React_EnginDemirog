@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/oopIntro/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopIntro/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopIntro/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopIntro/ProductManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -38,26 +42,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IlkDersOdevler.SayiBulma.Main">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="IlkDersOdevler.ArkadasSayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.ArkadasSayilar.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="IlkDersOdevler.ArkadasSayilar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IlkDersOdevler.AsalSayiMi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.AsalSayiMi.Main" />
-      <module name="Java-React_EnginDemirog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.AsalSayiMi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopIntro.Main2" />
+      <module name="Java-React_EnginDemirog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopIntro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.IlkDersOdevler.SayiBulma.Main" />
         <item itemvalue="Application.IlkDersOdevler.ArkadasSayilar.Main" />
         <item itemvalue="Application.IlkDersOdevler.MukemmelSayilar.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.IlkDersOdevler.AsalSayiMi.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +127,9 @@
       <option name="presentableId" value="Default" />
       <updated>1651950911447</updated>
       <workItem from="1651950912843" duration="9317000" />
-      <workItem from="1651984438801" duration="4201000" />
+      <workItem from="1651984438801" duration="4527000" />
+      <workItem from="1652156992318" duration="10000" />
+      <workItem from="1652163077667" duration="8998000" />
     </task>
     <servers />
   </component>
