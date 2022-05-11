@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/A_Metodlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/A_ParametreliMetodlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/B_VariableArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/C_ClassNedir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/C_CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/D_DegerVeReferansTipleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/EB_DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/E_ReCapDemo_ClasslarlaCalismak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/FB_Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/FC_ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/F_classesWithAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopIntro/Odev1/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopIntro/Odev1/CourseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopIntro/Odev1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/GB_DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/G_MethodOverloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopIntro/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/FB_Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/FB_Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/F_classesWithAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/F_classesWithAttributes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.F_classesWithAttributes">
+  <component name="RunManager" selected="Application.G_MethodOverloading">
     <configuration name="C_ClassNedir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.C_ClassNedir" />
       <module name="Java-React_EnginDemirog" />
@@ -93,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IkinciDersOdevler.B_VariableArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.B_VariableArguments" />
+    <configuration name="G_MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.G_MethodOverloading" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.G_MethodOverloading" />
         <item itemvalue="Application.F_classesWithAttributes" />
         <item itemvalue="Application.IkinciDersOdevler.E_ReCapDemo_ClasslarlaCalismak" />
         <item itemvalue="Application.IkinciDersOdevler.D_DegerVeReferansTipleri" />
         <item itemvalue="Application.IkinciDersOdevler.C_ClassNedir" />
-        <item itemvalue="Application.IkinciDersOdevler.B_VariableArguments" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +131,7 @@
       <workItem from="1652156992318" duration="10000" />
       <workItem from="1652163077667" duration="9512000" />
       <workItem from="1652239118538" duration="2383000" />
-      <workItem from="1652241534205" duration="5286000" />
+      <workItem from="1652241534205" duration="6761000" />
     </task>
     <servers />
   </component>

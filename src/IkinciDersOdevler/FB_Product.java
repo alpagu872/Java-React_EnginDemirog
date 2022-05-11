@@ -1,5 +1,7 @@
 package IkinciDersOdevler;
 
+import oopIntro.Product;
+
 public class FB_Product {
     //Attribute veya Field
 
@@ -8,6 +10,28 @@ public class FB_Product {
     private String description;
     private double price;
     private int stockAmount;
+    private String renk;
+
+    public FB_Product() {
+
+    }
+
+    public FB_Product(int id, String name, String description, double price, int stockAmount, String renk) {
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.price = price;
+        this.stockAmount = stockAmount;
+        this.renk = renk;
+    }
+
+    public String getRenk() {
+        return renk;
+    }
+
+    public void setRenk(String renk) {
+        this.renk = renk;
+    }
 
     public int getId() {
         return id;
