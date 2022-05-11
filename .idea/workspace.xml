@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oopIntro/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopIntro/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopIntro/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopIntro/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/A_Metodlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/A_ParametreliMetodlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/B_VariableArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/C_ClassNedir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/C_CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/D_DegerVeReferansTipleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/EB_DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/E_ReCapDemo_ClasslarlaCalismak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/FB_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/FC_ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/F_classesWithAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopIntro/Odev1/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopIntro/Odev1/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopIntro/Odev1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopIntro/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopIntro/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +49,17 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="IlkDersOdevler.ArkadasSayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.ArkadasSayilar.Main" />
+  <component name="RunManager" selected="Application.F_classesWithAttributes">
+    <configuration name="C_ClassNedir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.C_ClassNedir" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.ArkadasSayilar.*" />
+          <option name="PATTERN" value="IkinciDersOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IlkDersOdevler.MukemmelSayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.MukemmelSayilar.Main" />
+    <configuration name="D_DegerVeReferansTipleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.D_DegerVeReferansTipleri" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.MukemmelSayilar.*" />
+          <option name="PATTERN" value="IkinciDersOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IlkDersOdevler.SayiBulma.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.SayiBulma.Main" />
+    <configuration name="F_classesWithAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.F_classesWithAttributes" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.SayiBulma.*" />
+          <option name="PATTERN" value="IkinciDersOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IlkDersOdevler.KalinVeInceHarfler.Main" />
+    <configuration name="IkinciDersOdevler.B_VariableArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.B_VariableArguments" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IlkDersOdevler.KalinVeInceHarfler.*" />
+          <option name="PATTERN" value="IkinciDersOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopIntro.Main2" />
+    <configuration name="IkinciDersOdevler.E_ReCapDemo_ClasslarlaCalismak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkinciDersOdevler.E_ReCapDemo_ClasslarlaCalismak" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopIntro.*" />
+          <option name="PATTERN" value="IkinciDersOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.IlkDersOdevler.SayiBulma.Main" />
-        <item itemvalue="Application.IlkDersOdevler.ArkadasSayilar.Main" />
-        <item itemvalue="Application.IlkDersOdevler.MukemmelSayilar.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.F_classesWithAttributes" />
+        <item itemvalue="Application.IkinciDersOdevler.E_ReCapDemo_ClasslarlaCalismak" />
+        <item itemvalue="Application.IkinciDersOdevler.D_DegerVeReferansTipleri" />
+        <item itemvalue="Application.IkinciDersOdevler.C_ClassNedir" />
+        <item itemvalue="Application.IkinciDersOdevler.B_VariableArguments" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +140,9 @@
       <workItem from="1651950912843" duration="9317000" />
       <workItem from="1651984438801" duration="4527000" />
       <workItem from="1652156992318" duration="10000" />
-      <workItem from="1652163077667" duration="8998000" />
+      <workItem from="1652163077667" duration="9512000" />
+      <workItem from="1652239118538" duration="2383000" />
+      <workItem from="1652241534205" duration="5286000" />
     </task>
     <servers />
   </component>
