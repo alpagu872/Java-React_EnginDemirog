@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/GB_DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/G_MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/FB_Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/FB_Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/F_classesWithAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkinciDersOdevler/F_classesWithAttributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +127,7 @@
       <workItem from="1652156992318" duration="10000" />
       <workItem from="1652163077667" duration="9512000" />
       <workItem from="1652239118538" duration="2383000" />
-      <workItem from="1652241534205" duration="6761000" />
+      <workItem from="1652241534205" duration="6818000" />
     </task>
     <servers />
   </component>
