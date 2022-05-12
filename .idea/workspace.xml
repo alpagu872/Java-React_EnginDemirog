@@ -2,61 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B_oopIntro/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_oopIntro/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_oopIntro/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance/CorporateCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance/IndividualCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance/UnionCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance2/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance2/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance2/EmailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance2/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance2/LogManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance2/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Inheritance2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/AskerKredisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/KrediUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/BaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/OgrenciKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/InstructorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/UserManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/A_Metodlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/A_Metodlar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/A_ParametreliMetodlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/A_ParametreliMetodlar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/B_VariableArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/B_VariableArguments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/C_ClassNedir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/C_ClassNedir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/C_CustomerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/C_CustomerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/D_DegerVeReferansTipleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/D_DegerVeReferansTipleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/EB_DortIslem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/EB_DortIslem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/E_ReCapDemo_ClasslarlaCalismak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/E_ReCapDemo_ClasslarlaCalismak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/FB_Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/FB_Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/FC_ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/FC_ProductManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/F_classesWithAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/F_classesWithAttributes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/GB_DortIslem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/GB_DortIslem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkinciDersOdevler/G_MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_IkinciDersOdevler/G_MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/A_First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/A_First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/ArkadasSayilar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/ArkadasSayilar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/AsalSayiMi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/AsalSayiMi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/B_Iki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/B_Iki.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/C_TemelVeriTipleriUc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/C_TemelVeriTipleriUc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/D_IfBloklari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/D_IfBloklari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/E_SayiKiyaslama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/E_SayiKiyaslama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/F_SwitchBloklari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/F_SwitchBloklari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/G_ForDongusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/G_ForDongusu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/H_WhileDongusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/H_WhileDongusu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/I_DoWhileDongusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/I_DoWhileDongusu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/J_Diziler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/J_Diziler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/J_Diziler2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/J_Diziler2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/K_CokBoyutluDiziler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/K_CokBoyutluDiziler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/KalinVeInceHarfler/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/KalinVeInceHarfler/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/L_Stringler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/L_Stringler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/MukemmelSayilar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/MukemmelSayilar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IlkDersOdevler/SayiBulma/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_IlkDersOdevler/SayiBulma/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/Odev1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_oopIntro/Odev1/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/Odev1/CourseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_oopIntro/Odev1/CourseManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/Odev1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_oopIntro/Odev1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopIntro/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_oopIntro/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-React_EnginDemirog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-React_EnginDemirog.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -93,13 +74,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E_Inheritance2.Main">
-    <configuration name="E_Inheritance2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Inheritance2.Main" />
+  <component name="RunManager" selected="Application.F_UcuncuGunOdevler.E_KodlamaIo.Main">
+    <configuration name="F_UcuncuGunOdevler.A_Inheritance_36.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.A_Inheritance_36.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_Inheritance2.*" />
+          <option name="PATTERN" value="F_UcuncuGunOdevler.A_Inheritance_36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F_classesWithAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_IkinciDersOdevler.F_classesWithAttributes" />
+    <configuration name="F_UcuncuGunOdevler.B_Video_37.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.B_Video_37.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_IkinciDersOdevler.*" />
+          <option name="PATTERN" value="F_UcuncuGunOdevler.B_Video_37.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G_MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_IkinciDersOdevler.G_MethodOverloading" />
+    <configuration name="F_UcuncuGunOdevler.C_Polymorphism_38.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.C_Polymorphism_38.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_IkinciDersOdevler.*" />
+          <option name="PATTERN" value="F_UcuncuGunOdevler.C_Polymorphism_38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F_UcuncuGunOdevler.E_KodlamaIo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.E_KodlamaIo.Main" />
+      <module name="Java-React_EnginDemirog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="F_UcuncuGunOdevler.E_KodlamaIo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,24 +128,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Inheritance.Main" />
+      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.D_Overriding_39.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_oopIntro.Main2" />
-      <module name="Java-React_EnginDemirog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="B_oopIntro.*" />
+          <option name="PATTERN" value="F_UcuncuGunOdevler.D_Overriding_39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E_Inheritance2.Main" />
-        <item itemvalue="Application.E_Inheritance.Main" />
-        <item itemvalue="Application.B_oopIntro.Main2" />
-        <item itemvalue="Application.D_IkinciDersOdevler.G_MethodOverloading" />
-        <item itemvalue="Application.D_IkinciDersOdevler.F_classesWithAttributes" />
+        <item itemvalue="Application.F_UcuncuGunOdevler.E_KodlamaIo.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.F_UcuncuGunOdevler.C_Polymorphism_38.Main" />
+        <item itemvalue="Application.F_UcuncuGunOdevler.B_Video_37.Main" />
+        <item itemvalue="Application.F_UcuncuGunOdevler.A_Inheritance_36.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +167,7 @@
       <workItem from="1652265113479" duration="469000" />
       <workItem from="1652265599697" duration="55000" />
       <workItem from="1652265665582" duration="6452000" />
-      <workItem from="1652331658920" duration="5290000" />
+      <workItem from="1652331658920" duration="12376000" />
     </task>
     <servers />
   </component>
