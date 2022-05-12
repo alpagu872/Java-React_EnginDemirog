@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/A_Inheritance_36/PersonManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/AskerKredisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/BaseKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/KrediUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/OgretmenKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/B_Video_37/TarimKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/BaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/EmailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/C_Polymorphism_38/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/BaseKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/OgrenciKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/OgretmenKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/D_Overriding_39/TarimKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/InstructorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_UcuncuGunOdevler/E_KodlamaIo/UserManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-React_EnginDemirog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-React_EnginDemirog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +134,7 @@
       <workItem from="1652265113479" duration="469000" />
       <workItem from="1652265599697" duration="55000" />
       <workItem from="1652265665582" duration="6452000" />
-      <workItem from="1652331658920" duration="12376000" />
+      <workItem from="1652331658920" duration="12434000" />
     </task>
     <servers />
   </component>
