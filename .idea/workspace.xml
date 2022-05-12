@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/SmsLogger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -134,7 +139,8 @@
       <workItem from="1652265113479" duration="469000" />
       <workItem from="1652265599697" duration="55000" />
       <workItem from="1652265665582" duration="6452000" />
-      <workItem from="1652331658920" duration="12434000" />
+      <workItem from="1652331658920" duration="13146000" />
+      <workItem from="1652373264688" duration="3041000" />
     </task>
     <servers />
   </component>
