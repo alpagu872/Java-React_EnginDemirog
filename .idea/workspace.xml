@@ -2,12 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/EmailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_Interfaces/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/BaseDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/MySqlDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/OracleDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/SqlServerDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/BaseGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/KidsGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/ManGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/OlderGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/WomanGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/ICustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/IRepostory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/MySQLCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/OracleCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/SqlCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/IEatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/IPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/IWorkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/OutSourceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/RoboWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/ProductValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/G_Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/G_Interfaces/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,57 +61,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.G_Interfaces.Main">
-    <configuration name="F_UcuncuGunOdevler.B_Video_37.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.B_Video_37.Main" />
-      <module name="Java-React_EnginDemirog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="F_UcuncuGunOdevler.B_Video_37.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="F_UcuncuGunOdevler.C_Polymorphism_38.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.C_Polymorphism_38.Main" />
-      <module name="Java-React_EnginDemirog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="F_UcuncuGunOdevler.C_Polymorphism_38.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="F_UcuncuGunOdevler.E_KodlamaIo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.E_KodlamaIo.Main" />
-      <module name="Java-React_EnginDemirog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="F_UcuncuGunOdevler.E_KodlamaIo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="G_Interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="G_Interfaces.Main" />
       <module name="Java-React_EnginDemirog" />
@@ -99,12 +86,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F_UcuncuGunOdevler.D_Overriding_39.Main" />
+    <configuration name="H_DorduncuGunOdevler.AbstractClassDemo_41.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_DorduncuGunOdevler.AbstractClassDemo_41.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="F_UcuncuGunOdevler.D_Overriding_39.*" />
+          <option name="PATTERN" value="H_DorduncuGunOdevler.AbstractClassDemo_41.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H_DorduncuGunOdevler.AbstractClass_40.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_DorduncuGunOdevler.AbstractClass_40.Main" />
+      <module name="Java-React_EnginDemirog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H_DorduncuGunOdevler.AbstractClass_40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H_DorduncuGunOdevler.InterfaceClass_42_43.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_DorduncuGunOdevler.InterfaceClass_42_43.Main" />
+      <module name="Java-React_EnginDemirog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H_DorduncuGunOdevler.InterfaceClass_42_43.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_DorduncuGunOdevler.StaticDemo_45.Main" />
+      <module name="Java-React_EnginDemirog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H_DorduncuGunOdevler.StaticDemo_45.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.G_Interfaces.Main" />
-        <item itemvalue="Application.F_UcuncuGunOdevler.E_KodlamaIo.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.F_UcuncuGunOdevler.C_Polymorphism_38.Main" />
-        <item itemvalue="Application.F_UcuncuGunOdevler.B_Video_37.Main" />
+        <item itemvalue="Application.H_DorduncuGunOdevler.InterfaceClass_42_43.Main" />
+        <item itemvalue="Application.H_DorduncuGunOdevler.AbstractClassDemo_41.Main" />
+        <item itemvalue="Application.H_DorduncuGunOdevler.AbstractClass_40.Main" />
+        <item itemvalue="Application.G_Interfaces.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +166,9 @@
       <workItem from="1652265599697" duration="55000" />
       <workItem from="1652265665582" duration="6452000" />
       <workItem from="1652331658920" duration="13146000" />
-      <workItem from="1652373264688" duration="9289000" />
+      <workItem from="1652373264688" duration="9770000" />
+      <workItem from="1652436216212" duration="5676000" />
+      <workItem from="1652444337153" duration="1913000" />
     </task>
     <servers />
   </component>
