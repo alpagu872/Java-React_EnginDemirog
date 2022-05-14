@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871d252f-50b4-4159-8447-08d86be0e433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/BaseDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/MySqlDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/OracleDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClassDemo_41/SqlServerDatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/BaseGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/KidsGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/ManGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/OlderGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/AbstractClass_40/WomanGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/ICustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/IRepostory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/MySQLCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/OracleCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceClass_42_43/SqlCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/IEatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/IPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/IWorkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/OutSourceWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/RoboWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/InterfaceDemo44/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/DatabaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H_DorduncuGunOdevler/StaticDemo_45/ProductValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easywsdl/ExKsoap2-1.0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easywsdl/ksoap2-android-assembly-3.6.4-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-React_EnginDemirog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-React_EnginDemirog.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +19,7 @@
         <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -69,16 +43,22 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="G_Interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G_Interfaces.Main" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\etli8\IdeaProjects\Java-React_EnginDemirog\src\AA_GercekHayattaInterface\tr\gov\nvi\tckimlik" />
+      <recent name="C:\Users\etli8\IdeaProjects\Java-React_EnginDemirog\src\AA_GercekHayattaInterface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AA_GercekHayattaInterface.Main">
+    <configuration name="AA_GercekHayattaInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AA_GercekHayattaInterface.Main" />
       <module name="Java-React_EnginDemirog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="G_Interfaces.*" />
+          <option name="PATTERN" value="AA_GercekHayattaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AA_GercekHayattaInterface.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.H_DorduncuGunOdevler.InterfaceClass_42_43.Main" />
         <item itemvalue="Application.H_DorduncuGunOdevler.AbstractClassDemo_41.Main" />
         <item itemvalue="Application.H_DorduncuGunOdevler.AbstractClass_40.Main" />
-        <item itemvalue="Application.G_Interfaces.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +148,8 @@
       <workItem from="1652331658920" duration="13146000" />
       <workItem from="1652373264688" duration="9770000" />
       <workItem from="1652436216212" duration="5676000" />
-      <workItem from="1652444337153" duration="1913000" />
+      <workItem from="1652444337153" duration="6107000" />
+      <workItem from="1652460308297" duration="3055000" />
     </task>
     <servers />
   </component>
