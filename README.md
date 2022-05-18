@@ -4,3 +4,4 @@
 ### + İkinci haftanın ödev ve alıştırmaları  tamamlandı. 5/11/2022 9:04 AM
 ### + Üçüncü haftanın ödev ve alıştırmaları  tamamlandı. 5/12/2022 11:36 AM
 ### + Dördüncü haftanın ödev ve alıştırmaları  tamamlandı. 5/14/2022 2:54 PM
+### + Beşinci haftanın ödev ve alıştırmaları tamamlandı. 5/19/2022 1:22 AM
